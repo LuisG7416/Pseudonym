@@ -51,4 +51,3 @@ def thanksSub():
         # elif userName.lower() == "lexi":
         #     return render_template("lexi.html")
         # return render_template("thanksSub.html", userName = userName)
-        #does it work?
